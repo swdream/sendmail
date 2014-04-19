@@ -1,7 +1,7 @@
 # Send mail from your terminal
 
 
-$ lsb_release -r
+$ lsb_release -r <br/>
 Release:        12.04
 
 ## hostname
