@@ -8,9 +8,10 @@ Release:        12.04
 thanhnguyen@thanhnguyen:~$ hostname 
 thanhnguyen
 
-
+<element>
 $ whatis ssmtp
 ssmtp (8)            - send a message using smtp
+</element>
 ## install ssmtp
 $ apt-get install ssmtp -y 
 
